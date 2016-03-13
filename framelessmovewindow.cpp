@@ -1,7 +1,6 @@
 #include "framelessmovewindow.h"
 #include <QMouseEvent>
 #include <QPoint>
-#include <QPushButton>
 
 FramelessMoveWindow::FramelessMoveWindow(QWidget *parent) : QMainWindow(parent)
 {
